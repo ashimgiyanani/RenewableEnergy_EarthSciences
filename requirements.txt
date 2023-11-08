@@ -1,0 +1,10 @@
+numpy
+pandas
+wetterdienst==0.20.3
+scipy
+seaborn
+datetime
+matplotlib
+windrose
+
+
